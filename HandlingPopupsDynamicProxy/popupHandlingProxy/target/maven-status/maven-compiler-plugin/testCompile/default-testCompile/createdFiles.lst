@@ -1,0 +1,5 @@
+com\pageFactoryClasses\ElementGuard.class
+com\pageFactoryClasses\MyPageFactory.class
+com\pageFactoryClasses\ElementProxy.class
+com\pageFactoryClasses\SearchPage.class
+com\PopupTest\GoogleSearchPopupTest.class
